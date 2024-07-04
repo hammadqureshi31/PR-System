@@ -3,7 +3,7 @@
 ?>
 
 	<section class="main-content">
-		<h2>Welcome to Police Reporting System</h2>
+		<h2>Welcome to license-vehicle-management-system</h2>
 		<br>
 		<p>
 <?php
@@ -15,7 +15,7 @@
 	}
 	else {
 ?>
-		Please log in into Police Reporting System
+		Please log in into license-vehicle-management-system
 <?php	
 	}
 ?>
